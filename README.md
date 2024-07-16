@@ -1,3 +1,4 @@
+![logo](https://github.com/azurecoders/azurecoders/blob/main/channels4_banner.jpg)
 <h1 align="center">Hi 👋, I'm Muzammil Ahmed</h1>
 <h3 align="center">A passionate full stack web developer from Pakistan</h3>
 
