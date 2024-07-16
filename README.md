@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azurecoders&label=Profile%20views&color=0e75b6&style=flat" alt="azurecoders" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azurecoders" alt="azurecoders" /></a> </p>
-
 - 🔭 I’m currently working on [advance mern stack crud](https://github.com/azurecoders/mern-stack-advance-crud)
 
 - 🌱 I’m currently learning **React JS**
